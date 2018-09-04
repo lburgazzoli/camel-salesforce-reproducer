@@ -8,7 +8,7 @@
   <artifactId>camel-sf-reproducer</artifactId>
   <version>0.1-SNAPSHOT</version>
   <name>camel-sf-reproducer</name>
-  
+
   <packaging>jar</packaging>
 
   <properties>
